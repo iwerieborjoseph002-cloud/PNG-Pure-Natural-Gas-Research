@@ -14,7 +14,7 @@ PNG Energy System is a modular engineering research project focused on fuel atom
 
 **Outcome:** Established baseline atomization model for combustion efficiency analysis.
 
-**Module File:** [Fuel Atomization](modules/fuel-atomization/Fuel Atomization.md)
+**Module File:** https://github.com/iwerieborjoseph002-cloud/Png_energy_system./blob/main/Fuel-atomization.md
 
 ### 2. Fuel Injection Dynamics (In Progress)
 - Injector nozzle flow behavior
