@@ -16,15 +16,20 @@ PNG Energy System is a modular engineering research project focused on fuel atom
 
 **Module File:** https://github.com/iwerieborjoseph002-cloud/Png_energy_system./blob/main/Fuel-atomization.md
 
-### 2. Fuel Injection Dynamics (In Progress)
-- Injector nozzle flow behavior
-- Pressure-based fuel dispersion
-- Spray formation timing
-
-### 3. Catalyst Process Optimization (In Progress)
+### 2. Catalyst Process Optimization (In Progress)
 - Fe–Ni catalytic reactions
 - Temperature and pressure tuning
 - Hydrocarbon formation (C1–C20)
+  
+This module covers catalyst efficiency, reaction control, and system optimization within the PNG Energy System.
+
+🔗 Module Link:  
+https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/catalyst-process-optimization.md
+
+### 3. Fuel Injection Dynamics (In Progress)
+- Injector nozzle flow behavior
+- Pressure-based fuel dispersion
+- Spray formation timing
 
 ### 4. Combustion Stability and Knock Analysis (Pending)
 - Knock formation mechanisms
