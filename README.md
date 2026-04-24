@@ -16,7 +16,7 @@ PNG Energy System is a modular engineering research project focused on fuel atom
 
 **Module File:** https://github.com/iwerieborjoseph002-cloud/Png_energy_system./blob/main/Fuel-atomization.md
 
-### 2. Catalyst Process Optimization (In Progress)
+### 2. Catalyst Process Optimization (completed)
 - Fe–Ni catalytic reactions
 - Temperature and pressure tuning
 - Hydrocarbon formation (C1–C20)
