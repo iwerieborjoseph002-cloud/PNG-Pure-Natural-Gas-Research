@@ -22,7 +22,7 @@ Each stage contributes to overall energy efficiency and performance optimization
 
 The foundational research document provides the theoretical and conceptual basis of the PNG Energy System:
 
-📄 Main PDF:  
+Main PDF:  
 https://github.com/iwerieborjoseph002-cloud/PNG-Pure-Natural-Gas-Research/blob/main/PNG-Pure-Natural-Gas-Research%20PDF
 
 ---
