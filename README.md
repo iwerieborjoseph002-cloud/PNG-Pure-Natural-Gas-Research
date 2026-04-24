@@ -1,52 +1,60 @@
 
-# PNG Energy System – GitHub Module Status
 
-## Overview
-PNG Energy System is a modular engineering research project focused on fuel atomization, catalytic conversion, combustion analysis, and hybrid energy integration.
+# PNG Energy System
 
-## Modules (7 Total)
+The PNG (Pure Natural Gas) Energy System is a modular engineering framework designed to study and optimize fuel conversion, atomization, catalytic reactions, and energy efficiency in integrated combustion systems.
 
-### 1. Fuel Atomization (Completed)
-- Spray angle and droplet formation
-- Air–fuel mixing behavior
-- Combustion efficiency impact
-- PNG vs conventional fuel comparison
+This project is structured as a system-level engineering model rather than a single-process study.
 
-**Outcome:** Established baseline atomization model for combustion efficiency analysis.
+---
 
-**Module File:** https://github.com/iwerieborjoseph002-cloud/Png_energy_system./blob/main/Fuel-atomization.md
+## System Overview
 
-### 2. Catalyst Process Optimization (completed)
-- Fe–Ni catalytic reactions
-- Temperature and pressure tuning
-- Hydrocarbon formation (C1–C20)
-  
-This module covers catalyst efficiency, reaction control, and system optimization within the PNG Energy System.
+The PNG Energy System is composed of interconnected subsystems:
 
-🔗 Module Link:  
-https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/catalyst-process-optimization.md
+Fuel Preparation → Atomization → Catalytic Conversion → Combustion → Energy Output → System Monitoring
 
-### 3. Fuel Injection Dynamics (In Progress)
-- Injector nozzle flow behavior
-- Pressure-based fuel dispersion
-- Spray formation timing
+Each stage contributes to overall energy efficiency and performance optimization.
 
-### 4. Combustion Stability and Knock Analysis (Pending)
-- Knock formation mechanisms
-- Flame propagation behavior
-- Pressure wave dynamics
+---
 
-### 5. Hybrid Energy Integration System (Pending)
-- PNG and renewable energy coupling
-- Hybrid power architecture
-- Emission reduction modelling
+## Research Document
 
-### 6. Sensor and Atomization Alert System (Pending)
-- Real-time combustion monitoring
-- Injection quality detection
-- System fault alerts
+The foundational research document provides the theoretical and conceptual basis of the PNG Energy System:
 
-### 7. Module 7 (To Be Defined) (Pending)
-- To be determined based on project expansion
+📄 Main PDF:  
+https://github.com/iwerieborjoseph002-cloud/PNG-Pure-Natural-Gas-Research/blob/main/PNG-Pure-Natural-Gas-Research%20PDF
 
-## Repository Structure (Planned)
+---
+
+## Engineering Modules
+
+The detailed technical implementation is organized in modular form:
+
+https://github.com/iwerieborjoseph002-cloud/Png_energy_system
+
+Modules include:
+- Fuel Atomization  
+- Catalyst Process Optimization  
+- Fuel Injection Dynamics  
+    
+
+---
+
+## Project Philosophy
+
+This system follows an engineering-first approach where:
+
+- Each module represents a physical subsystem  
+- Mathematical models define performance behavior  
+- Integration determines overall system efficiency  
+
+---
+
+## Future Expansion
+
+Planned developments include:
+
+- Hybrid renewable integration  
+- Real-time sensor feedback systems  
+- Advanced combustion diagnostics
